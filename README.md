@@ -4,7 +4,7 @@
 
 It creates two link on each pull request item (in pull requests page):
 
-![go to diff links]()
+![go to diff links](./assets/dark-mode.png)
 
 ---
 
