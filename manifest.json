@@ -1,7 +1,7 @@
 {
     "name": "go-to-diff",
     "version": "1.0.0",
-    "description": "Go to diff unified or split directly",
+    "description": "Go to diff unified or split directly in a pull request",
     "manifest_version": 2,
     "content_scripts": [
         {
