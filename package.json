@@ -1,7 +1,7 @@
 {
   "name": "go-to-diff",
   "version": "1.0.0-dev",
-  "description": "Go to diff unified or split directly",
+  "description": "Go to diff unified or split directly in a pull request",
   "main": "index.js",
   "repository": "git@github.com:gabsprates/go-to-diff.git",
   "author": "Gabriel Prates <gabsprates@gmail.com>",
